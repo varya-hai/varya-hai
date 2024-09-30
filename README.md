@@ -1,3 +1,4 @@
+![Header](./head_picture.png)
 <p align="center" style="font-size: 30%;">
   Hey👋, I'm a Data Analyst from Russia, Moscow
 </p>
