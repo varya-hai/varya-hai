@@ -1,4 +1,4 @@
-![Header](./FA103174-3F33-4BF7-B883-23C40D40EFA3_1_102_o.jpeg)
+
 <p align="center" style="font-size: 30%;">
   Hey👋, I'm a Data Analyst from Russia, Moscow
 </p>
